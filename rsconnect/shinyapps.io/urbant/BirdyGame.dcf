@@ -1,0 +1,13 @@
+name: BirdyGame
+title: BirdyGame
+username: urbant
+account: urbant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15857040
+bundleId: 11082655
+url: https://urbant.shinyapps.io/BirdyGame/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 00_data/occurrence.txt|compress_sounds.R|download_sounds.R|get_sounds.R|play_bird_play.R|test_sounds.R|backup|ui_variants
