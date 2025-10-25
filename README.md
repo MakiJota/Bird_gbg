@@ -2,6 +2,16 @@
 
 An interactive Shiny application for learning about bird species in Gothenburg, Sweden. Play memory games, match bird names and sounds, and explore detailed species information.
 
+## 🎥 Demo
+
+See the app in action:
+
+![App Demo](birdy.mp4)
+
+## 🌐 Live Application
+
+Try the live app here: **[https://urbant.shinyapps.io/BirdyGame/](https://urbant.shinyapps.io/BirdyGame/)**
+
 ## 🎮 Game Modes
 
 ### Memory Game
